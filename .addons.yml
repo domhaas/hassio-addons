@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  maestrogateway:
+    repository: domhaas/maestrogateway-hassio
+    target: maestrogateway
+    image: ghcr.io/domhaas/maestrogateway-hassio:latest
